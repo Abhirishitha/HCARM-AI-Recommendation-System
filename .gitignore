@@ -6,4 +6,3 @@ __pycache__/
 .env
 
 data/Amazon-Products.csv
-embeddings/product_embeddings.npy
